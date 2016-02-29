@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./povidiinasonisop01oviduoft_0577.png"; bbox 0 0 1849 3198; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1279 0 1738 70">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1279 0 1738 70">
+     <span class='ocr_line' id='line_1_1' title="bbox 1279 0 1738 70; baseline 0.017 -15"><span class='ocrx_word' id='word_1_1' title='bbox 1279 0 1440 63; x_wconf 47' lang='lat' dir='ltr'><strong>&amp;AN</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 1465 0 1555 59; x_wconf 54' lang='lat'><strong>22³⁴:</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 1588 0 1738 70; x_wconf 57' lang='grc' dir='ltr'><strong>ΗΜ</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 361 1537 1520 1690">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 361 1537 1520 1690">
+     <span class='ocr_line' id='line_1_2' title="bbox 538 1537 1343 1586; baseline -0.001 -1"><span class='ocrx_word' id='word_1_4' title='bbox 538 1538 775 1586; x_wconf 58' lang='lat' dir='ltr'><strong>aasz</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 802 1538 895 1586; x_wconf 88' lang='lat' dir='ltr'><strong>DO</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 921 1537 1055 1586; x_wconf 86' lang='grc' dir='ltr'><strong>ΝΟΤ</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 1080 1537 1343 1585; x_wconf 72' lang='lat' dir='ltr'>Remove</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 361 1640 1520 1690; baseline 0.001 -3"><span class='ocrx_word' id='word_1_8' title='bbox 361 1640 580 1689; x_wconf 72' lang='lat' dir='ltr'><strong>CARDS</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 599 1640 687 1689; x_wconf 74' lang='grc' dir='ltr'><strong>ΟΠ</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 707 1641 882 1690; x_wconf 76' lang='lat' dir='ltr'>SUPS</span> <span class='ocrx_word' id='word_1_11' title='bbox 901 1640 1080 1689; x_wconf 70' lang='lat' dir='ltr'><strong>Fnom</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 1098 1641 1243 1689; x_wconf 67' lang='lat' dir='ltr'><strong>Tuus</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 1263 1640 1520 1689; x_wconf 80' lang='grc' dir='ltr'>ΡΟΟΚΕΤ</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 227 1678 1519 1889">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 227 1678 1519 1889">
+     <span class='ocr_line' id='line_1_4' title="bbox 227 1678 1519 1889; baseline -0.002 -1"><span class='ocrx_word' id='word_1_14' title='bbox 227 1678 230 1862; x_wconf 44' lang='grc' dir='ltr'><strong>ι</strong></span> <span class='ocrx_word' id='word_1_15' title='bbox 364 1831 740 1888; x_wconf 67' lang='grc' dir='ltr'><strong>υΝΝΕΒΒΙΤΥ</strong></span> <span class='ocrx_word' id='word_1_16' title='bbox 780 1840 862 1888; x_wconf 76' lang='grc' dir='ltr'><strong>ΟΡ</strong></span> <span class='ocrx_word' id='word_1_17' title='bbox 896 1840 1215 1889; x_wconf 75' lang='grc' dir='ltr'><strong>ΤΟΒΟΝΤΟ</strong></span> <span class='ocrx_word' id='word_1_18' title='bbox 1253 1841 1519 1887; x_wconf 65' lang='lat' dir='ltr'><strong>tunsum(</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
